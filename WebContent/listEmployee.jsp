@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Git Demo</title>
+<title>Employee List</title>
 </head>
 <body>
-	<jsp:forward page="EmployeeController.do?action=list"></jsp:forward>
+	List Of Employee Will Come Here
 </body>
 </html>
