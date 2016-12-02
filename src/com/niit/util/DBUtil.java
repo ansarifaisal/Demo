@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class DBUtil {
 	
 	//Configuration
-	private static final String URL = "jdbc:h2:tcp://localhost/~/testdb";
+	private static final String URL = "jdbc:h2:tcp://localhost/~/testDemo";
 	private static final String DRIVER = "org.h2.Driver";
 	private static final String USERNAME = "sa";
 	private static final String PASSWORD = "";
