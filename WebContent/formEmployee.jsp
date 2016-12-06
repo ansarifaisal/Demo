@@ -14,6 +14,8 @@
  		Employee employee =(Employee) request.getAttribute("employee");
 		if(employee == null){
 			employee = new Employee();
+			employee.setFirstName("");
+			employee.setLastName("");
 		}
 	
  	%>
